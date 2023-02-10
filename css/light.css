@@ -1,0 +1,15 @@
+body {
+    background-color: #fff !important;
+}
+
+footer {
+    background-color: #3F51B5;
+}
+
+footer .social-icons a{
+    color: #fff;
+}
+
+footer .social-icons a:hover {
+    color: #23527c;
+}
