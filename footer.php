@@ -34,7 +34,7 @@
         el: '#app',
         data: {
             tableCells: [],
-            bgColor: 'black',
+            bgColor: '#204d74',
             textColor: 'white',
             themeStylesheet: 'css/light.css',
             iconClass: 'fas fa-moon',
